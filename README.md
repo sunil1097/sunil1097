@@ -9,9 +9,10 @@
 - 📂 Check my projects below 👇  
 
 ## 🔹 Featured Projects  
-- [Selenium Hybrid Framework](https://github.com/sunil1097/selenium-hybrid-framework)  
-- [API Testing with RestAssured](https://github.com/sunil1097/api-testing-restassured)  
-- [Data-Driven Testing Project](https://github.com/sunil1097/data-driven-framework)  
+- [Selenium Hybrid Framework](https://github.com/sunil1097/Vtiger_Selenium_Hybrid_Framework)
+- [Selenium Hybrid Framework](https://github.com/sunil1097/ninza-crm-hybrid-framework)  
+- [API Testing with RestAssured](https://github.com/sunil1097/Pet_Store_API_Automation)  
+
 
 ## 🔹 Connect With Me  
 - [LinkedIn](https://www.linkedin.com/in/sunil-samal10/) 
